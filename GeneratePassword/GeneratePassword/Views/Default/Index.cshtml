@@ -1,0 +1,36 @@
+﻿@model CipherViewModel
+@{
+	ViewData["Title"] = "Şifre Oluşturma Ekranı";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="card mt-5">
+	<div class="card-header">
+		<h4>Şifre Oluşturma Ekranı</h4>
+		@*<h4>@ViewBag.Random</h4>*@
+	</div>
+	<div class="card-body">
+		<div class="container mt-3">
+			<div class="justify-content-md-around">
+				<form method="post" asp-action="Index" asp-controller="Default">
+
+					<input type="text" asp-for="Password" value="@ViewBag.Code" class="form-control" readonly />
+					<input type="text" asp-for="Description" class="form-control mt-3" placeholder="Tarih ve Sayı Girin" required />
+
+					<button type="submit" class="btn btn-warning mt-3">Kaydet</button>
+
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="card-footer mt-3">
+		<a href="/Default/CipherList/" class="btn btn-danger">
+			<i class="fa fa-solid fa-rotate-right"></i>
+			Şifre Listesine Git
+		</a>
+	</div>
+</div>
+
+
+

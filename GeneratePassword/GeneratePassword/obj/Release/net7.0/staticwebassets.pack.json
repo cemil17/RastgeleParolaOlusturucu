@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\GeneratePassword.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GeneratePassword.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\album-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\album-rtl\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\album\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\album\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\brand\\bootstrap-logo-white.svg",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\brand\\bootstrap-logo-white.svg"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\brand\\bootstrap-logo.svg",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\brand\\bootstrap-logo.svg"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\assets\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\assets\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\blog-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\blog-rtl\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\blog\\blog.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\blog\\blog.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\blog\\blog.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\blog\\blog.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\blog\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\blog\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\carousel-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\carousel-rtl\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\carousel\\carousel.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\carousel\\carousel.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\carousel\\carousel.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\carousel\\carousel.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\carousel\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\carousel\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\cheatsheet-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\cheatsheet-rtl\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\cheatsheet\\cheatsheet.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\cheatsheet\\cheatsheet.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\cheatsheet\\cheatsheet.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\cheatsheet\\cheatsheet.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\cheatsheet\\cheatsheet.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\cheatsheet\\cheatsheet.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\cheatsheet\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\cheatsheet\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\checkout-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\checkout-rtl\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\checkout\\form-validation.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\checkout\\form-validation.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\checkout\\form-validation.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\checkout\\form-validation.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\checkout\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\checkout\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\cover\\cover.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\cover\\cover.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\cover\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\cover\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\dashboard-rtl\\dashboard.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\dashboard-rtl\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\dashboard-rtl\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\dashboard-rtl\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\dashboard\\dashboard.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\dashboard\\dashboard.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\dashboard\\dashboard.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\dashboard\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\dashboard\\dashboard.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\dashboard\\dashboard.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\dashboard\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\features\\features.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\features\\features.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\features\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\features\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\features\\unsplash-photo-1.jpg",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\features\\unsplash-photo-1.jpg"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\features\\unsplash-photo-2.jpg",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\features\\unsplash-photo-2.jpg"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\features\\unsplash-photo-3.jpg",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\features\\unsplash-photo-3.jpg"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\grid\\grid.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\grid\\grid.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\grid\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\grid\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\headers\\headers.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\headers\\headers.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\headers\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\headers\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\heroes\\bootstrap-docs.png",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\heroes\\bootstrap-docs.png"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\heroes\\bootstrap-themes.png",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\heroes\\bootstrap-themes.png"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\heroes\\heroes.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\heroes\\heroes.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\heroes\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\heroes\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\jumbotron\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\jumbotron\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\masonry\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\masonry\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\navbar-bottom\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\navbar-bottom\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\navbar-fixed\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\navbar-fixed\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\navbar-fixed\\navbar-top-fixed.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\navbar-fixed\\navbar-top-fixed.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\navbar-static\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\navbar-static\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\navbar-static\\navbar-top.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\navbar-static\\navbar-top.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\navbars\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\navbars\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\navbars\\navbar.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\navbars\\navbar.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\offcanvas-navbar\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\offcanvas-navbar\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\offcanvas-navbar\\offcanvas.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\offcanvas-navbar\\offcanvas.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\offcanvas-navbar\\offcanvas.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\offcanvas-navbar\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\offcanvas\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\offcanvas\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\pricing\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\pricing\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\pricing\\pricing.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\pricing\\pricing.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\product\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\product\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\product\\product.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\product\\product.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sidebars\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sidebars\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sidebars\\sidebars.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sidebars\\sidebars.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sidebars\\sidebars.js",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sidebars\\sidebars.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sign-in\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sign-in\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sign-in\\signin.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sign-in\\signin.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\starter-template\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\starter-template\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\starter-template\\starter-template.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\starter-template\\starter-template.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sticky-footer-navbar\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sticky-footer-navbar\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sticky-footer-navbar\\sticky-footer-navbar.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sticky-footer-navbar\\sticky-footer-navbar.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sticky-footer\\index.html",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sticky-footer\\index.html"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\bootstrap-5.0.2-examples\\sticky-footer\\sticky-footer.css",
+      "PackagePath": "staticwebassets\\bootstrap-5.0.2-examples\\sticky-footer\\sticky-footer.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Works\\GeneratePassword\\GeneratePassword\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.GeneratePassword.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.GeneratePassword.props",
+      "PackagePath": "build\\GeneratePassword.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GeneratePassword.props",
+      "PackagePath": "buildMultiTargeting\\GeneratePassword.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.GeneratePassword.props",
+      "PackagePath": "buildTransitive\\GeneratePassword.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
